@@ -10,6 +10,9 @@ export default (() => {
 			<Text as="h2" font="--headline1" md-font="--headline2" margin="20px 0 0 0">
 				About Us
 			</Text>
+			<Text as="h2" font="--headline1" md-font="--headline2" margin="20px 0 0 0">
+				About Us
+			</Text>
 			<Components.Jhgjgjh />
 			<Button font="--lead" margin="20px">
 				Button

@@ -16,7 +16,7 @@ export const onRenderBody = (
             font-family: sans-serif;
         }
     `}</style>,
-    <link rel="shortcut icon" href="http://uploads.quarkly.io/readme/cra/favicon-32x32.ico" />,
+    <link rel="shortcut icon" href="https://uploads.quarkly.io/readme/cra/favicon-32x32.ico" />,
     ,
   ]);
 
